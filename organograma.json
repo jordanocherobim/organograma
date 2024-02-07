@@ -201,16 +201,6 @@
   },
   {
     "name": "FABIANO LEANDRO DOS SANTOS",
-    "posto": "TENENTE CORONEL",
-    "funcao": "Cmt BCSv",
-    "id": "0926595-3-01",
-    "parentId": "925316-5-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": "leandros"
-  },
-  {
-    "name": "FABIANO LEANDRO DOS SANTOS",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 13º BBM",
     "id": "0926595-3-01",
@@ -262,8 +252,18 @@
   {
     "name": "TULIO TARTARI ZANIN",
     "posto": "TENENTE CORONEL",
-    "funcao": "Chefe da BM-6",
+    "funcao": "Cmt BCSv",
     "id": "0927172-4-01",
+    "parentId": "925316-5-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": "tulio"
+  },
+  {
+    "name": "TULIO TARTARI ZANIN",
+    "posto": "TENENTE CORONEL",
+    "funcao": "Chefe da BM-6",
+    "id": "0927172-4-01 x",
     "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
@@ -504,7 +504,7 @@
     "posto": "MAJOR",
     "funcao": "Cmt CCSv",
     "id": "09276742-01",
-    "parentId": "0926595-3-01",
+    "parentId": "0927172-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "brunoal"
