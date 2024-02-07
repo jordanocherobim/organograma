@@ -1,9 +1,8 @@
 [
   {
-    "": "",
     "name": "FABIANO DE SOUZA",
     "posto": "CORONEL",
-    "funcao": "CmtG",
+    "funcao": "Secretário de Estado da Proteção e Defesa Civil",
     "id": "0924669-0-01",
     "parentId": "",
     "ctisp": "",
@@ -11,120 +10,89 @@
     "login": "fabiano"
   },
   {
-    "": "",
     "name": "RENALDO ONOFRE LAUREANO JUNIOR",
     "posto": "CORONEL",
-    "funcao": "SCmtG",
+    "funcao": "DEFESA CIVIL",
     "id": "0924685-1-01",
-    "parentId": "0924669-0-01",
-    "ctisp": "",
+    "parentId": "",
+    "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "laureano"
   },
   {
-    "": "",
     "name": "FABIANO BASTOS DAS NEVES",
     "posto": "CORONEL",
-    "funcao": "Chefe do Estado-Maior Geral",
+    "funcao": "CmtG",
     "id": "0924000-4-01",
-    "parentId": "0924669-0-01",
+    "parentId": "",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fabianob"
   },
   {
-    "": "",
     "name": "DIOGO BAHIA LOSSO",
     "posto": "CORONEL",
-    "funcao": "Corregedor Geral",
+    "funcao": "Diretor da Diretoria de Instrução e ensino",
     "id": "0922323-1-01",
-    "parentId": "0924669-0-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "losso"
   },
   {
-    "": "",
     "name": "ARIOVALDO DA SILVA PACHECO",
     "posto": "CORONEL",
-    "funcao": "DEFESA CIVIL",
+    "funcao": "Comando Geral",
     "id": "0920234-0-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "ariovaldo"
   },
   {
-    "": "",
-    "name": "GUSTAVO EUSTAQUIO DE MACEDO CAMPOS",
-    "posto": "CORONEL",
-    "funcao": "Controlador Interno",
-    "id": "0921527-1-01",
-    "parentId": "0925316-5-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": "gustavo"
-  },
-  {
-    "": "",
     "name": "ALEXANDRE DA SILVA",
     "posto": "CORONEL",
     "funcao": "Coordenador do Centro Escola de Governo",
     "id": "0921514-0-30",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": "alexandre"
   },
   {
-    "": "",
     "name": "PAULO DINIZ ARRUDA NUNES",
     "posto": "CORONEL",
     "funcao": "Cmt 2ª RBM",
     "id": "0922317-7-01",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Lages",
     "login": "diniz"
   },
   {
-    "": "",
-    "name": "MARCOS ALVES DA SILVA",
-    "posto": "CORONEL",
-    "funcao": "Cmt 3ª RBM",
-    "id": "0922344-4-01",
-    "parentId": "0924685-1-01",
-    "ctisp": "",
-    "municipio": "Chapecó",
-    "login": "marcosalves"
-  },
-  {
-    "": "",
     "name": "DEIVID NIVALDO VIDAL",
     "posto": "CORONEL",
     "funcao": "TJSC",
     "id": "0924665-7-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "dvidal"
   },
   {
-    "": "",
     "name": "ALDRIN SILVA DE SOUZA",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt 1ª RBM",
     "id": "0924663-0-01",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "aldrin"
   },
   {
-    "": "",
     "name": "VANDERVAN NIVALDO DA SILVA VIDAL",
     "posto": "CORONEL",
-    "funcao": "Diretor da Diretoria de Logística e Finanças (DLF)",
+    "funcao": "Chefe do Estado-Maior Geral",
     "id": "0924688-6-01",
     "parentId": "0924000-4-01",
     "ctisp": "",
@@ -132,21 +100,9 @@
     "login": "vandervan"
   },
   {
-    "": "",
-    "name": "JEFFERSON DE SOUZA",
-    "posto": "TENENTE CORONEL",
-    "funcao": "Chefe de gabinete",
-    "id": "0925316-5-01",
-    "parentId": "0924669-0-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": "jeffersons"
-  },
-  {
-    "": "",
     "name": "JORGE ARTUR CAMEU JUNIOR",
-    "posto": "TENENTE-CORONEL",
-    "funcao": "Diretor da Diretoria de Instrução e ensino",
+    "posto": "CORONEL",
+    "funcao": "Corregedor Geral",
     "id": "0925296-7-01",
     "parentId": "0924000-4-01",
     "ctisp": "",
@@ -154,150 +110,146 @@
     "login": "cameu"
   },
   {
-    "": "",
     "name": "WALTER PARIZOTTO",
     "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 6º BBM",
+    "funcao": "Cmt 3ª RBM",
     "id": "0920849-6-01",
-    "parentId": "0922344-4-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Chapecó",
     "login": "parizotto"
   },
   {
-    "": "",
     "name": "CHRISTIANO CARDOSO",
     "posto": "TENENTE-CORONEL",
     "funcao": "MPSC",
     "id": "0925320-3-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "ccardoso"
   },
   {
-    "": "",
     "name": "JESIEL MAYCON ALVES",
     "posto": "TENENTE CORONEL",
     "funcao": "Ouvidor Geral",
     "id": "0925814-0-01",
-    "parentId": "0925316-5-01",
+    "parentId": "0926742-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "jesiel"
   },
   {
-    "": "",
+    "name": "JESIEL MAYCON ALVES",
+    "posto": "TENENTE CORONEL",
+    "funcao": "Controlador Interno",
+    "id": "0925814-0-01 X",
+    "parentId": "0926742-5-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": "jesiel"
+  },
+  {
     "name": "WILLYAN FAZZIONI",
     "posto": "TENENTE CORONEL",
     "funcao": "Diretor da Diretoria de Segurança Contra Incêndio",
     "id": "0926182-6-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fazzioni"
   },
   {
-    "": "",
     "name": "DIOGO DE SOUZA CLARINDO",
-    "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 3º BBM",
+    "posto": "TENENTE CORONEL",
+    "funcao": "Chefe de gabinete",
     "id": "0926742-5-01",
-    "parentId": "0924663-0-01",
+    "parentId": "0924000-4-01",
     "ctisp": "",
-    "municipio": "Blumenau",
+    "municipio": "Florianópolis",
     "login": "diogo"
   },
   {
-    "": "",
     "name": "JOSE ANANIAS CARNEIRO",
-    "posto": "TENENTE CORONEL",
-    "funcao": "Cmt 7º BBM",
+    "posto": "CORONEL",
+    "funcao": "Diretor da Diretoria de Logística e Finanças (DLF)",
     "id": "0926745-0-01",
-    "parentId": "0924663-0-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
-    "municipio": "Itajaí",
+    "municipio": "Florianópolis",
     "login": "ananias"
   },
   {
-    "": "",
     "name": "ZEVIR ANIBAL CIPRIANO JUNIOR",
     "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 13º BBM",
+    "funcao": "Cmt 1º BBM",
     "id": "0924315-1-01",
     "parentId": "0924663-0-01",
     "ctisp": "",
-    "municipio": "Balneário Camboriú",
+    "municipio": "Florianópolis",
     "login": "zevir"
   },
   {
-    "": "",
     "name": "ROBERTO WEINGARTNER",
     "posto": "TENENTE CORONEL",
     "funcao": "Diretor da Diretoria de pessoal",
     "id": "0926743-3-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "robertow"
   },
   {
-    "": "",
     "name": "FABIANO LEANDRO DOS SANTOS",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt BCSv",
     "id": "0926595-3-01",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "leandros"
   },
   {
-    "": "",
     "name": "FABIANO LEANDRO DOS SANTOS",
-    "posto": "TENENTE CORONEL",
-    "funcao": "Chefe da BM-6",
-    "id": "0926595-3-01 X",
-    "parentId": "0924000-4-01",
+    "posto": "TENENTE-CORONEL",
+    "funcao": "Cmt 13º BBM",
+    "id": "0926595-3-01",
+    "parentId": "0924663-0-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Balneário Camboriú",
     "login": "leandros"
   },
   {
-    "": "",
     "name": "GEORGE DE VARGAS FERREIRA",
-    "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt BOA",
+    "posto": "TENENTE CORONEL",
+    "funcao": "Cmt 7º BBM",
     "id": "0926741-7-01",
-    "parentId": "0924685-1-01",
+    "parentId": "0924663-0-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Itajaí",
     "login": "gvferreira"
   },
   {
-    "": "",
     "name": "DANIEL GEVAERD MULLER",
     "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 1º BBM",
+    "funcao": "DEFESA CIVIL",
     "id": "0927273-9-01",
-    "parentId": "0924663-0-01",
-    "ctisp": "",
+    "parentId": "",
+    "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "danielgm"
   },
   {
-    "": "",
     "name": "ANA PAULA GUILHERME",
-    "posto": "TENENTE CORONEL",
-    "funcao": "Chefe da BM-3",
+    "posto": "TENENTE-CORONEL",
+    "funcao": "Cmt 5º BBM",
     "id": "0927277-1-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0922317-7-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Lages",
     "login": "anapaula"
   },
   {
-    "": "",
     "name": "MARCO ANTONIO EIDT",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 2º BBM",
@@ -308,40 +260,36 @@
     "login": "eidt"
   },
   {
-    "": "",
     "name": "TULIO TARTARI ZANIN",
     "posto": "TENENTE CORONEL",
-    "funcao": "Subdiretor da Diretoria de Instrução e ensino",
+    "funcao": "Chefe da BM-6",
     "id": "0927172-4-01",
-    "parentId": "0925296-7-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "tulio"
   },
   {
-    "": "",
     "name": "ATILA MEDEIROS SARTE",
     "posto": "TENENTE CORONEL",
     "funcao": "Chefe da Assessoria Especial de Integração de Serviços Auxiliares",
     "id": "0927276-3-01",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "sarte"
   },
   {
-    "": "",
     "name": "MAICO FRANCISCO DE ALCANTARA",
     "posto": "TENENTE CORONEL",
-    "funcao": "Corregedor Adjunto",
+    "funcao": "Cmt 6º BBM",
     "id": "0926884-7-01",
-    "parentId": "0922323-1-01",
+    "parentId": "0920849-6-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Chapecó",
     "login": "alcantara"
   },
   {
-    "": "",
     "name": "ISABEL IVANKA KRETZER SANTOS",
     "posto": "TENENTE CORONEL",
     "funcao": "Chefe da Divisão de Saúde e Promoção Social (DiSPS)",
@@ -352,29 +300,26 @@
     "login": "ivanka"
   },
   {
-    "": "",
     "name": "ANDRE LUIZ GRIGULO",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 11º BBM",
     "id": "0926200-8-01",
-    "parentId": "0922344-4-01",
+    "parentId": "0920849-6-01",
     "ctisp": "",
     "municipio": "Joaçaba",
     "login": "grigulo"
   },
   {
-    "": "",
     "name": "LUIZ FELIPE LEMOS",
     "posto": "TENENTE-CORONEL",
     "funcao": "TJSC",
     "id": "0927274-7-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "lemos"
   },
   {
-    "": "",
     "name": "DAVI PEREIRA DE SOUZA",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 10º BBM",
@@ -385,29 +330,26 @@
     "login": "davips"
   },
   {
-    "": "",
     "name": "LUIZ GUSTAVO DOS ANJOS",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt do Centro de Ensino",
     "id": "0365246-7-01",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "dosanjos"
   },
   {
-    "": "",
     "name": "ANDRE LUIS HACH PRATTS",
     "posto": "TENENTE CORONEL",
-    "funcao": "Chefe da BM-1",
+    "funcao": "Corregedor Adjunto",
     "id": "0927272-0-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0925296-7-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "pratts"
   },
   {
-    "": "",
     "name": "DIEGO MACIEL SERAFIM",
     "posto": "TENENTE CORONEL",
     "funcao": "Chefe da Divisão de Seleção, Inclusão e Estudo de Pessoal (DiSIEP)",
@@ -418,40 +360,36 @@
     "login": "diego"
   },
   {
-    "": "",
     "name": "ISABEL GAMBA PIONER",
     "posto": "TENENTE CORONEL",
-    "funcao": "EMG",
+    "funcao": "Chefe da Divisão de Recursos Humanos (DiRH)",
     "id": "0927270-4-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0926743-3-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "isabel"
   },
   {
-    "": "",
     "name": "DIEGO SOMMER THIESEN ALVES",
     "posto": "TENENTE-CORONEL",
     "funcao": "SEDEC",
     "id": "0927271-2-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Brasília",
     "login": "sommer"
   },
   {
-    "": "",
     "name": "MATEUS MUNIZ CORRADINI",
     "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 5º BBM",
+    "funcao": "Cmt 3º BBM",
     "id": "0365077-4-01",
-    "parentId": "0922317-7-01",
+    "parentId": "0924663-0-01",
     "ctisp": "",
-    "municipio": "Lages",
+    "municipio": "Blumenau",
     "login": "mcorradini"
   },
   {
-    "": "",
     "name": "HENRIQUE PIOVEZAM DA SILVEIRA",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt 4º BBM",
@@ -462,40 +400,26 @@
     "login": "henriquepiovezam"
   },
   {
-    "": "",
-    "name": "FABIO COLLODEL",
-    "posto": "TENENTE-CORONEL",
-    "funcao": "Cmt 8º BBM",
-    "id": "0928361-7-01",
-    "parentId": "0924663-0-01",
-    "ctisp": "",
-    "municipio": "Tubarão",
-    "login": "fabio"
-  },
-  {
-    "": "",
     "name": "GAUANA ELIS POZZAN ECCO",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 14º BBM",
     "id": "0928360-9-01",
-    "parentId": "0922344-4-01",
+    "parentId": "0920849-6-01",
     "ctisp": "",
     "municipio": "Xanxerê",
     "login": "elis"
   },
   {
-    "": "",
     "name": "ANDERSON MEDEIROS SARTE",
     "posto": "TENENTE-CORONEL",
     "funcao": "Cmt 12º BBM",
     "id": "0927676-9-01",
-    "parentId": "0922344-4-01",
+    "parentId": "0920849-6-01",
     "ctisp": "",
     "municipio": "São Miguel do Oeste",
     "login": "asarte"
   },
   {
-    "": "",
     "name": "RAFAEL FORTUNATO CAMILO",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt 15º BBM",
@@ -506,29 +430,26 @@
     "login": "fortunato"
   },
   {
-    "": "",
     "name": "PRISCILA CASAGRANDE",
     "posto": "TENENTE CORONEL",
     "funcao": "Chefe da BM-7",
     "id": "0928359-5-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "priscila"
   },
   {
-    "": "",
     "name": "DIEGO FELIPE MARZAROTTO",
     "posto": "TENENTE CORONEL",
     "funcao": "Chefe da Divisão de Tecnologia da Informação (DiTI)",
     "id": "0928362-5-01",
-    "parentId": "0924688-6-01",
+    "parentId": "0926745-0-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "marzarotto"
   },
   {
-    "": "",
     "name": "WILLIAN LEAL NUNES",
     "posto": "TENENTE CORONEL",
     "funcao": "Cmt 9º BBM",
@@ -539,7 +460,6 @@
     "login": "willian"
   },
   {
-    "": "",
     "name": "ANDERSON LUIS CIOTTA",
     "posto": "MAJOR",
     "funcao": "Aux 2ª RBM",
@@ -550,7 +470,6 @@
     "login": "ciotta"
   },
   {
-    "": "",
     "name": "JULIANA KRETZER",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
@@ -561,29 +480,26 @@
     "login": "kretzer"
   },
   {
-    "": "",
     "name": "HUGO MANFRIN DALLOSSI",
     "posto": "MAJOR",
-    "funcao": "Cmt 1ª CBM",
+    "funcao": "Cmt BOA",
     "id": "0929344-2-01",
-    "parentId": "0926741-7-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "manfrin"
   },
   {
-    "": "",
     "name": "EDUARDO SILVEIRA PEDUZZI",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Educação a Distância (DiEaD)",
     "id": "0929350-7-01",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "peduzzi"
   },
   {
-    "": "",
     "name": "BRUNO AZEVEDO LISBOA",
     "posto": "MAJOR",
     "funcao": "Cmt CCSv",
@@ -594,40 +510,36 @@
     "login": "brunoal"
   },
   {
-    "": "",
     "name": "BRUNO AZEVEDO LISBOA",
     "posto": "MAJOR",
     "funcao": "Chefe da BM-4",
     "id": "09276742-01 x",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "brunoal"
   },
   {
-    "": "",
     "name": "FERNANDO IRENO VIEIRA",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
     "id": "0928349-8-01",
-    "parentId": "0927273-9-01",
+    "parentId": "0924315-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "ireno"
   },
   {
-    "": "",
     "name": "HELOISA HELENA BATTISTI",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
     "id": "0374613-5-01",
-    "parentId": "0365077-4-01",
+    "parentId": "0927277-1-01",
     "ctisp": "",
     "municipio": "Lages",
     "login": "heloisa"
   },
   {
-    "": "",
     "name": "ILTON SCHPIL",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
@@ -638,29 +550,26 @@
     "login": "schpil"
   },
   {
-    "": "",
     "name": "FILIPE DA SILVA DAMINELLI",
     "posto": "MAJOR",
     "funcao": "SCmt 7º BBM",
     "id": "0927678-5-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Itajaí",
     "login": "daminelli"
   },
   {
-    "": "",
     "name": "FABIO FREGAPANI SILVA",
     "posto": "MAJOR",
     "funcao": "Cmt BAjH",
     "id": "03922081-01",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fregapani"
   },
   {
-    "": "",
     "name": "FABIO FREGAPANI SILVA",
     "posto": "MAJOR",
     "funcao": "Adjunto da BM-4",
@@ -671,18 +580,16 @@
     "login": "fregapani"
   },
   {
-    "": "",
     "name": "GUILHERME VIRISSIMO DA SERRA COSTA",
     "posto": "MAJOR",
     "funcao": "Controlador Adjunto",
     "id": "0362476-5-02",
-    "parentId": "0921527-1-01",
+    "parentId": "0925814-0-01 X",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "serracosta"
   },
   {
-    "": "",
     "name": "ISMAEL MATEUS PIVA",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -693,7 +600,6 @@
     "login": "piva"
   },
   {
-    "": "",
     "name": "NAURO RICARDO MUCK",
     "posto": "MAJOR",
     "funcao": "SCmt 9º BBM",
@@ -704,18 +610,16 @@
     "login": ""
   },
   {
-    "": "",
     "name": "THYAGO DA SILVA MARTINS",
     "posto": "MAJOR",
-    "funcao": "Ajudante de Ordens",
+    "funcao": "Chefe da BM-1",
     "id": "0928258-0-01",
-    "parentId": "0924685-1-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "thyago"
   },
   {
-    "": "",
     "name": "FELIPE GELAIN",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Engenharia Contra Incêndio (DECI)",
@@ -726,7 +630,6 @@
     "login": "gelain"
   },
   {
-    "": "",
     "name": "FELIPE GELAIN",
     "posto": "MAJOR",
     "funcao": "Chefe do Centro de Consultoria Técnica em Segurança Contra Incêndio (CAT)",
@@ -737,29 +640,26 @@
     "login": "gelain"
   },
   {
-    "": "",
     "name": "SAMUEL AMBROSO",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Finanças (DiF)",
     "id": "0925647-4-01",
-    "parentId": "0924688-6-01",
+    "parentId": "0926745-0-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "samuel"
   },
   {
-    "": "",
     "name": "JAIR PEREIRA DOS SANTOS JUNIOR",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
     "id": "0927679-3-01",
-    "parentId": "0926741-7-01",
+    "parentId": "0929344-2-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": "jairpsj"
   },
   {
-    "": "",
     "name": "RENAN SILVERIO DA ROSA FERNANDES",
     "posto": "MAJOR",
     "funcao": "SCmt 4º BBM",
@@ -770,7 +670,6 @@
     "login": "renan"
   },
   {
-    "": "",
     "name": "CLEMENTE STAHELIN MICHELS",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
@@ -781,18 +680,16 @@
     "login": ""
   },
   {
-    "": "",
     "name": "ANDRE CORREA DE ARAUJO",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Logística (DiL)",
     "id": "0928771-0-01",
-    "parentId": "0924688-6-01",
+    "parentId": "0926745-0-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "andrearaujo"
   },
   {
-    "": "",
     "name": "EDMILSON DUFFECK",
     "posto": "MAJOR",
     "funcao": "Cmt 4ª CBM",
@@ -803,51 +700,46 @@
     "login": "edemilson"
   },
   {
-    "": "",
     "name": "DANIEL SOUZA DUTRA",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Ensino Básico e Complementar (DiEBC)",
     "id": "0378848-2-01",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "danieldutra"
   },
   {
-    "": "",
     "name": "FERNANDA SEBASTIANI TIBOLA",
     "posto": "MAJOR",
-    "funcao": "Adjunta da BM-3",
-    "id": "0929064-8-02",
-    "parentId": "0927277-1-01",
+    "funcao": "Chefe da BM-3",
+    "id": "0929064-8-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fernandas"
   },
   {
-    "": "",
     "name": "RODRIGO VANDERLINDE",
     "posto": "MAJOR",
     "funcao": "Cmt 4ª CBM",
     "id": "0927856-7-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Joinville",
     "login": "vanderlinde"
   },
   {
-    "": "",
     "name": "JUCIANE DA CRUZ MAY",
     "posto": "MAJOR",
     "funcao": "Chefe do Centro de Comunicação Social",
     "id": "0928184-3-01",
-    "parentId": "0925316-5-01",
+    "parentId": "0926742-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "juciane"
   },
   {
-    "": "",
     "name": "ARTHUR ROBERTO VOGEL FILHO",
     "posto": "MAJOR",
     "funcao": "SCmt 15º BBM",
@@ -858,7 +750,6 @@
     "login": "arthurr"
   },
   {
-    "": "",
     "name": "TADEU LUIZ ALONSO PELOZZI",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Investigação de Incêndio e Explosão (DINVI)",
@@ -869,7 +760,6 @@
     "login": "pelozzi"
   },
   {
-    "": "",
     "name": "MICHAEL MAGRINI",
     "posto": "MAJOR",
     "funcao": "SCmt 12º BBM",
@@ -880,7 +770,6 @@
     "login": "magrini"
   },
   {
-    "": "",
     "name": "RODRIGO GHISOLFI DA SILVA",
     "posto": "MAJOR",
     "funcao": "Centro de Processamentos de Dados e Redes (CPDR)",
@@ -891,7 +780,6 @@
     "login": "ghisolfi"
   },
   {
-    "": "",
     "name": "MARCOS LEANDRO MARQUES",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -902,18 +790,16 @@
     "login": "mlmarques"
   },
   {
-    "": "",
     "name": "RANGEL KEHL",
     "posto": "MAJOR",
     "funcao": "Aux 3ª RBM",
     "id": "0927094-9-02",
-    "parentId": "0922344-4-01",
+    "parentId": "0920849-6-01",
     "ctisp": "",
     "municipio": "Chapecó",
     "login": "kehl"
   },
   {
-    "": "",
     "name": "OSCAR WASHINGTON BARBOZA JUNIOR",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Normatização (DiN)",
@@ -924,7 +810,6 @@
     "login": "oscarw"
   },
   {
-    "": "",
     "name": "OSCAR WASHINGTON BARBOZA JUNIOR",
     "posto": "MAJOR",
     "funcao": "Chefe do Centro de Elaboração e Revisão de Normativa (CEReN)",
@@ -935,18 +820,16 @@
     "login": "oscarw"
   },
   {
-    "": "",
     "name": "CRISTIANO BRANDAO",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
     "id": "0929077-0-02",
-    "parentId": "0920849-6-01",
+    "parentId": "0926884-7-01",
     "ctisp": "",
     "municipio": "Chapecó",
     "login": "cbrandao"
   },
   {
-    "": "",
     "name": "JIHORGENES LUCIANO BORGES",
     "posto": "MAJOR",
     "funcao": "Cmt 3ª CBM",
@@ -957,40 +840,36 @@
     "login": "borges"
   },
   {
-    "": "",
     "name": "JACSON LUIZ DE SOUZA",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
     "id": "0920662-0-02",
-    "parentId": "0924315-1-01",
+    "parentId": "0926595-3-01",
     "ctisp": "",
     "municipio": "Balneário Camboriú",
     "login": "jacson"
   },
   {
-    "": "",
     "name": "MARCUS VINICIUS ABRE",
     "posto": "MAJOR",
     "funcao": "SCmt 3º BBM",
     "id": "0929066-4-02",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": "marcusv"
   },
   {
-    "": "",
     "name": "JOAO EMILIANO DE MOURA SILVA MIRANDA",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
     "id": "0929627-1-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Navegantes",
     "login": "mouras"
   },
   {
-    "": "",
     "name": "VINICIUS MOURA MARCOLIM",
     "posto": "MAJOR",
     "funcao": "Cmt 4ª CBM",
@@ -1001,40 +880,36 @@
     "login": "marcolim"
   },
   {
-    "": "",
     "name": "IVONILSO VARELA DUARTE",
     "posto": "MAJOR",
     "funcao": "Cmt 3ª CBM",
     "id": "0924313-5-02",
-    "parentId": "0365077-4-01",
+    "parentId": "0927277-1-01",
     "ctisp": "",
     "municipio": "Lages",
     "login": "varela"
   },
   {
-    "": "",
     "name": "GUSTAVO CUNHA SALVADOR",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Controle e Avaliação de Ensino (DiCAE)",
     "id": "0928369-2-01",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "gustavocs"
   },
   {
-    "": "",
     "name": "LEONARDO ECCO",
     "posto": "MAJOR",
     "funcao": "Cmt 4ª CBM",
     "id": "0650370-5-01",
-    "parentId": "0920849-6-01",
+    "parentId": "0926884-7-01",
     "ctisp": "",
     "municipio": "Seara",
     "login": "ecco"
   },
   {
-    "": "",
     "name": "MAICON EDER MOTELIEVICZ",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -1045,18 +920,16 @@
     "login": "maiconeder"
   },
   {
-    "": "",
     "name": "POLLIANA MULLER GIACOMIN",
     "posto": "MAJOR",
     "funcao": "Secretário do EMG",
     "id": "0929633-6-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "MARCOS REBELLO HOFFMANN",
     "posto": "MAJOR",
     "funcao": "Chefe da Divisão de Edução Física (DiEF)",
@@ -1067,7 +940,6 @@
     "login": "m.hoffmann"
   },
   {
-    "": "",
     "name": "MARCELO DELLA GIUSTINA DA SILVA",
     "posto": "MAJOR",
     "funcao": "SCmt 10º BBM",
@@ -1078,7 +950,6 @@
     "login": "marcelodg"
   },
   {
-    "": "",
     "name": "FABIANO CEZAR GALEAZZI",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -1089,7 +960,6 @@
     "login": "fcgaleazzi"
   },
   {
-    "": "",
     "name": "ALAN DELEI CIELUSINSKY",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -1100,7 +970,6 @@
     "login": "alan"
   },
   {
-    "": "",
     "name": "LEANDRO FLORES EMMANUELLI",
     "posto": "MAJOR",
     "funcao": "Cmt 1ª CBM",
@@ -1111,7 +980,6 @@
     "login": "leandroflores"
   },
   {
-    "": "",
     "name": "NOLAN RAFAEL VOLKWEIS",
     "posto": "MAJOR",
     "funcao": "Cmt 3ª CBM",
@@ -1122,7 +990,6 @@
     "login": "nolan"
   },
   {
-    "": "",
     "name": "DIOGO VIEIRA FERNANDES",
     "posto": "MAJOR",
     "funcao": "Cmt 3ª CBM",
@@ -1133,29 +1000,26 @@
     "login": "diogovf"
   },
   {
-    "": "",
     "name": "RODOLFO SILVEIRA RODRIGUES",
     "posto": "MAJOR",
     "funcao": "Cmt 2ª CBM",
     "id": "0928146-0-01",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Timbó",
     "login": "rodolfosr"
   },
   {
-    "": "",
     "name": "DARCIO ARCELINO NUNES FILHO",
     "posto": "CAPITÃO",
     "funcao": "AGREGADO",
     "id": "0926744-1-01",
-    "parentId": "0924000-4-01",
+    "parentId": "0924688-6-01",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "FABIO JERONIMO DO CARMO",
     "posto": "MAJOR",
     "funcao": "Cmt 3ª CBM",
@@ -1166,51 +1030,46 @@
     "login": "jeronimo"
   },
   {
-    "": "",
     "name": "RENAN CESAR VINOTTI CECCATO",
     "posto": "CAPITÃO",
     "funcao": "Chefe B3",
     "id": "0929637-9-01",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": "renancesar"
   },
   {
-    "": "",
     "name": "VICTOR JOSE POLLI",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 2ª CBM",
+    "funcao": "Cmt 1º PCSv",
     "id": "0929600-0-02",
-    "parentId": "0927275-5-01",
+    "parentId": "0924315-1-01",
     "ctisp": "",
-    "municipio": "Palhoça",
+    "municipio": "Florianópolis",
     "login": "victor"
   },
   {
-    "": "",
     "name": "RODRIGO SCHARDONG BESSOUAT DA SILVA",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 2ª CBM",
-    "id": "0923855-7-02",
-    "parentId": "0924315-1-01",
+    "funcao": "Ajudante de Ordens",
+    "id": "923855-7-02",
+    "parentId": "925316-5-01",
     "ctisp": "",
-    "municipio": "Itapema",
+    "municipio": "Florianópolis",
     "login": "schardong"
   },
   {
-    "": "",
     "name": "GLAYCON JEAN REITZ",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
     "id": "0928924-0-01",
-    "parentId": "0920849-6-01",
+    "parentId": "0926884-7-01",
     "ctisp": "",
     "municipio": "Pinhalzinho",
     "login": "greitz"
   },
   {
-    "": "",
     "name": "GILVAN AMORIM DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Desenvolvimento (CDES)",
@@ -1221,40 +1080,36 @@
     "login": "gilvan"
   },
   {
-    "": "",
     "name": "NATALIA CAUDURO DA SILVA",
     "posto": "CAPITÃO",
-    "funcao": "Adjunta da BM-7",
+    "funcao": "Cmt 2ª CBM",
     "id": "0929634-4-01",
-    "parentId": "0928359-5-01",
+    "parentId": "0927275-5-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Palhoça",
     "login": "natalia"
   },
   {
-    "": "",
     "name": "JOAO VICENTE PEREIRA CAVALLAZZI",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
     "id": "0921298-1-02",
-    "parentId": "0927273-9-01",
+    "parentId": "0924315-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "cavallazzi"
   },
   {
-    "": "",
     "name": "FABIO LUIS ALVES PACHECO",
     "posto": "CAPITÃO",
-    "funcao": "Chefe da Divisão de Recursos Humanos (DiRH)",
+    "funcao": "Chefe do Centro de Efetivo e Movimentação (CEM)",
     "id": "0925763-2-02",
-    "parentId": "0926743-3-01",
+    "parentId": "0927270-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "flpacheco"
   },
   {
-    "": "",
     "name": "DIOGO BATTAGLIN",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
@@ -1265,29 +1120,16 @@
     "login": "battaglin"
   },
   {
-    "": "",
     "name": "GABRIEL BARRETO DE MELO",
     "posto": "CAPITÃO",
-    "funcao": "Chefe do Centro de Vencimento e Consignações (CVC)",
+    "funcao": "Chefe do B1",
     "id": "0929612-3-02",
-    "parentId": "0925763-2-02",
+    "parentId": "0926595-3-01",
     "ctisp": "",
-    "municipio": "Florianópolis",
+    "municipio": "Balneário Camboriú",
     "login": "gbarreto"
   },
   {
-    "": "",
-    "name": "GABRIEL BARRETO DE MELO",
-    "posto": "CAPITÃO",
-    "funcao": "Chefe do Centro de Efetivo e Movimentação (CEM)",
-    "id": "0929612-3-02 X",
-    "parentId": "0925763-2-02",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": "gbarreto"
-  },
-  {
-    "": "",
     "name": "MARCOS LUCIANO COLLA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
@@ -1298,7 +1140,6 @@
     "login": "colla"
   },
   {
-    "": "",
     "name": "ANDERSON ALVES IZIDORO",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Compras Diretas e Adesões (CCDA)",
@@ -1309,7 +1150,6 @@
     "login": "izidoro"
   },
   {
-    "": "",
     "name": "FELIPE PIRES SILVA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Auditoria (CAUD)",
@@ -1320,7 +1160,6 @@
     "login": "fpires"
   },
   {
-    "": "",
     "name": "JOAO RUDINI STURM",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
@@ -1331,40 +1170,36 @@
     "login": "rudini"
   },
   {
-    "": "",
     "name": "RODRIGO GONCALVES BASILIO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
     "id": "0392385-1-01",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Timbó",
     "login": ""
   },
   {
-    "": "",
     "name": "FABIO FRAGA",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 3ª CBM",
+    "funcao": "Cmt 1ª CBM",
     "id": "0931903-4-01",
-    "parentId": "0926741-7-01",
+    "parentId": "0929344-2-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fabiofraga"
   },
   {
-    "": "",
     "name": "JONAS LEMOS TALAISYS",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
     "id": "0931893-3-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Barra Velha",
     "login": "talaisys"
   },
   {
-    "": "",
     "name": "EDIVALDO ANTONIO DE MELLO MACHADO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
@@ -1375,7 +1210,6 @@
     "login": "emachado"
   },
   {
-    "": "",
     "name": "RAFAEL GIOSA SANINO",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Auditoria, Fiscalização e Poder de Polícia (CAF)",
@@ -1386,7 +1220,6 @@
     "login": "sanino"
   },
   {
-    "": "",
     "name": "ERIC GOMES VAMERLATI",
     "posto": "CAPITAO",
     "funcao": "Cmt 2ª CBM",
@@ -1397,7 +1230,6 @@
     "login": "eric"
   },
   {
-    "": "",
     "name": "MURILO PEDRO DEMARCHI",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Licitações (CLiC)",
@@ -1408,29 +1240,26 @@
     "login": "demarchi"
   },
   {
-    "": "",
     "name": "MARCELO PEREIRA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 4ª CBM",
     "id": "0931908-5-01",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": "marcelopereira"
   },
   {
-    "": "",
     "name": "BRUNO GOLIN SPROVIERI",
     "posto": "CAPITÃO",
     "funcao": "DEFESA CIVIL",
     "id": "0931895-0-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "bgolin"
   },
   {
-    "": "",
     "name": "WAGNER ALBERTO DE MORAES",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Investigações (CIN)",
@@ -1441,7 +1270,6 @@
     "login": "wagnerm"
   },
   {
-    "": "",
     "name": "WAGNER ALBERTO DE MORAES",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Pesquisa (CeP)",
@@ -1452,7 +1280,6 @@
     "login": "wagnerm"
   },
   {
-    "": "",
     "name": "GUILHERME MUELLER CESARIO PEREIRA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Inovação e Integração Normativa (CIIN)",
@@ -1463,18 +1290,16 @@
     "login": "mcesario"
   },
   {
-    "": "",
     "name": "RANIEL TELES PINHEIRO",
     "posto": "CAPITÃO",
     "funcao": "Chefe da Agência Central de Inteligência (ACI)",
     "id": "0931896-8-01",
-    "parentId": "0925316-5-01",
+    "parentId": "0926742-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "teles"
   },
   {
-    "": "",
     "name": "BRUNO LAZARIN KOCH",
     "posto": "CAPITÃO",
     "funcao": "Cmt do 1º Pelotão",
@@ -1485,18 +1310,16 @@
     "login": "lazarin"
   },
   {
-    "": "",
     "name": "DARIO AGUIAR VIEIRA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Justiça e Disciplina (CJD)",
     "id": "0928280-7-01",
-    "parentId": "0925763-2-02",
+    "parentId": "0927270-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "daguiar"
   },
   {
-    "": "",
     "name": "MICHEL PIRES DE ARAUJO",
     "posto": "CAPITÃO",
     "funcao": "Aux 1ª RBM",
@@ -1507,29 +1330,26 @@
     "login": "michelaraujo"
   },
   {
-    "": "",
     "name": "FELIPE DANIEL DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 5ª CBM",
     "id": "0931906-9-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Itajaí",
     "login": "felipes"
   },
   {
-    "": "",
     "name": "MARCELO DOS SANTOS RODRIGUES",
     "posto": "CAPITÃO",
     "funcao": "CFNP",
     "id": "0931910-7-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "mrodrigues"
   },
   {
-    "": "",
     "name": "DANIEL TORQUATO ELIAS",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Aprovisionamento e Distribuição (CAD)",
@@ -1540,7 +1360,6 @@
     "login": "torquato"
   },
   {
-    "": "",
     "name": "DANIEL TORQUATO ELIAS",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Bens Móveis (CMOV)",
@@ -1551,7 +1370,6 @@
     "login": "torquato"
   },
   {
-    "": "",
     "name": "GUILHERME BISOL",
     "posto": "CAPITÃO",
     "funcao": "Chefe da Seção de Correio Eletrônico (SCE)",
@@ -1562,18 +1380,16 @@
     "login": "bisol"
   },
   {
-    "": "",
     "name": "WALTER PEREIRA DE MENDONCA NETO",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 1º PBM",
+    "funcao": "Cmt 2ª CBM",
     "id": "0930100-3-02",
-    "parentId": "0920662-0-02",
+    "parentId": "0926595-3-01",
     "ctisp": "",
-    "municipio": "Balneário Camboriú",
+    "municipio": "Itapema",
     "login": ""
   },
   {
-    "": "",
     "name": "JEFFERSON LUIZ MACHADO",
     "posto": "CAPITÃO",
     "funcao": "Ajudante da BM-4",
@@ -1584,7 +1400,6 @@
     "login": "jefferson.m"
   },
   {
-    "": "",
     "name": "RAFAEL DE FAVERI",
     "posto": "CAPITAO",
     "funcao": "Cmt 1ª CBM",
@@ -1595,7 +1410,6 @@
     "login": "defaveri"
   },
   {
-    "": "",
     "name": "HENRIQUE JOSE SCHUELTER NUNES",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2º PBM",
@@ -1606,51 +1420,46 @@
     "login": "schuelter"
   },
   {
-    "": "",
     "name": "THIAGO ELOI SANTOS SARRAFF",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Monitoramento Operacional e Gestão de Crises",
     "id": "0928114-2-02",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "sarraff"
   },
   {
-    "": "",
     "name": "FILLIPI THIAGO PAMPLONA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 1ª CBM",
     "id": "0933470-0-01",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": "pamplona"
   },
   {
-    "": "",
     "name": "ANDRE PEREIRA CANEVER",
     "posto": "CAPITÃO",
-    "funcao": "Subchefe DISIEP",
+    "funcao": "Chefe do Centro de Vencimento e Consignações (CVC)",
     "id": "0929143-1-02",
-    "parentId": "0927264-0-01",
+    "parentId": "0927270-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "andre.c"
   },
   {
-    "": "",
     "name": "MARKUS VINICIUS SILVEIRA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
     "id": "0933475-0-01",
-    "parentId": "0924315-1-01",
+    "parentId": "0926595-3-01",
     "ctisp": "",
     "municipio": "Tijucas",
     "login": "vinicius.s"
   },
   {
-    "": "",
     "name": "RICARDO CAVALER BIANCHI",
     "posto": "CAPITAO",
     "funcao": "Cmt 2º PBM",
@@ -1661,7 +1470,6 @@
     "login": "ricardo.b"
   },
   {
-    "": "",
     "name": "MARCO AURELIO LINO MASSARANI COSTA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Sistemas de Emergência (CSE)",
@@ -1672,7 +1480,6 @@
     "login": "massarani"
   },
   {
-    "": "",
     "name": "ROBERTO ROSA MACHADO",
     "posto": "CAPITÃO",
     "funcao": "Ajudante da BM-4",
@@ -1683,7 +1490,6 @@
     "login": "rosa.m"
   },
   {
-    "": "",
     "name": "PEDRO CABRAL REIS DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 4ª CBM",
@@ -1694,7 +1500,6 @@
     "login": "reis.s"
   },
   {
-    "": "",
     "name": "THIAGO BERNARDES MACCARINI",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Liquidação e Pagamentos (CPAG)",
@@ -1705,18 +1510,16 @@
     "login": "maccarini"
   },
   {
-    "": "",
     "name": "DOUGLAS TOMAZ MACHADO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 1ª CBM",
     "id": "0927471-5-01",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Itajaí",
     "login": "douglas.m"
   },
   {
-    "": "",
     "name": "BRUNO SOUZA DE ALBUQUERQUE",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2º PBM",
@@ -1727,18 +1530,16 @@
     "login": "b.albuquerque"
   },
   {
-    "": "",
     "name": "FERNANDA GABRIELA DOS SANTOS",
     "posto": "CAPITÃO",
     "funcao": "Adjunta da BM-1",
     "id": "0933472-6-01",
-    "parentId": "0927272-0-01",
+    "parentId": "0928258-0-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "gabriela.s"
   },
   {
-    "": "",
     "name": "WAGNER JANUARIO CARDEAL",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Convênios (CCV)",
@@ -1749,7 +1550,6 @@
     "login": "cardeal"
   },
   {
-    "": "",
     "name": "GABRIEL SCHMITT LAURENTINO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
@@ -1760,40 +1560,36 @@
     "login": "gslaurentino"
   },
   {
-    "": "",
     "name": "DALDRIAN SCARABELOT",
     "posto": "CAPITÃO",
-    "funcao": "Ajudante de Ordens",
-    "id": "0931681-7-02",
-    "parentId": "0925316-5-01",
+    "funcao": "Cmt 3ª CBM",
+    "id": "0931681-7",
+    "parentId": "0929344-2-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "scarabelot"
   },
   {
-    "": "",
     "name": "RUBENS JOSE BABEL JUNIOR",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 1ª CBM",
+    "funcao": "Cmt 1º PBM",
     "id": "0929606-9-02",
-    "parentId": "0926268-7-01",
+    "parentId": "VAGO 84",
     "ctisp": "",
     "municipio": "Rio do Sul",
     "login": "babel"
   },
   {
-    "": "",
     "name": "ALVARO LUIZ BILHER JUNIOR",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2º PBM",
     "id": "0933675-3-01",
-    "parentId": "0931903-4-01",
+    "parentId": "0931681-7",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "bilher"
   },
   {
-    "": "",
     "name": "PEDRO SOARES DE PAULA",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Obras e Bens Imóveis (COBI)",
@@ -1804,7 +1600,6 @@
     "login": "depaula"
   },
   {
-    "": "",
     "name": "JOSE CESAR DA SILVA NETO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2º PBM",
@@ -1815,7 +1610,6 @@
     "login": "josecsn"
   },
   {
-    "": "",
     "name": "NILTON MENDES NUNES JUNIOR",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Contratos (CCT)",
@@ -1826,7 +1620,6 @@
     "login": "niltonmn"
   },
   {
-    "": "",
     "name": "MAURICIO DE SOUZA",
     "posto": "CAPITÃO",
     "funcao": "Cmt PCSv",
@@ -1837,29 +1630,26 @@
     "login": "msouza"
   },
   {
-    "": "",
     "name": "RAFAEL VIEIRA VILELA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
     "id": "0929608-5-02",
-    "parentId": "0927273-9-01",
+    "parentId": "0924315-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "vilela"
   },
   {
-    "": "",
     "name": "MAURICIO MATOS ROSA",
     "posto": "CAPITÃO",
     "funcao": "Auxiliar do chefe de gabinete",
     "id": "0927664-5-02",
-    "parentId": "0925316-5-01",
+    "parentId": "0926742-5-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "mauricio"
   },
   {
-    "": "",
     "name": "MARCUS DE AGUIAR IMBROSIO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 1ª CBM",
@@ -1870,7 +1660,6 @@
     "login": "imbrosio"
   },
   {
-    "": "",
     "name": "DIEGO MEDEIROS FRANZ",
     "posto": "CAPITÃO",
     "funcao": "Cmt do 1º Pelotão",
@@ -1881,51 +1670,46 @@
     "login": "franz"
   },
   {
-    "": "",
     "name": "IAN TRISKA",
     "posto": "CAPITÃO",
-    "funcao": "Cmt 2ª CBM",
+    "funcao": "Ajudante do Centro de Comunicação Social",
     "id": "0933674-5-01",
-    "parentId": "0927297-6-01",
+    "parentId": "0928184-3-01",
     "ctisp": "",
-    "municipio": "Videira",
+    "municipio": "Florianópolis",
     "login": "ian"
   },
   {
-    "": "",
     "name": "THIAGO DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
     "id": "0933679-6-01",
-    "parentId": "0365077-4-01",
+    "parentId": "0927277-1-01",
     "ctisp": "",
     "municipio": "São Joaquim",
     "login": "thiagos"
   },
   {
-    "": "",
     "name": "LUIZ GUSTAVO BONATELLI",
     "posto": "CAPITÃO",
     "funcao": "Cmt 1º PBM",
     "id": "0932193-4-02",
-    "parentId": "0931903-4-01",
+    "parentId": "0931681-7",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "lgbonatelli"
   },
   {
-    "": "",
     "name": "NICOLE FERREIRA MARTINS",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3º PBM",
     "id": "0932481-0-02",
-    "parentId": "0933674-5-01",
+    "parentId": "VAGO 81",
     "ctisp": "",
     "municipio": "Caçador",
     "login": "nicole"
   },
   {
-    "": "",
     "name": "SUELLEN LAPA DUARTE",
     "posto": "CAPITÃO",
     "funcao": "Chefe do Centro de Instrução em SCI (CISCI)",
@@ -1936,29 +1720,26 @@
     "login": "suellen"
   },
   {
-    "": "",
     "name": "RAMON PHILLIPY COELHO",
     "posto": "CAPITÃO",
     "funcao": "Cmt 3ª CBM",
     "id": "0927344-1-02",
-    "parentId": "0920849-6-01",
+    "parentId": "0926884-7-01",
     "ctisp": "",
     "municipio": "Chapecó",
     "login": "ramonpc"
   },
   {
-    "": "",
     "name": "ANDRE FELIPE NUNES DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Ajudância",
     "id": "0933677-0-01",
-    "parentId": "0920849-6-01",
+    "parentId": "0926884-7-01",
     "ctisp": "",
     "municipio": "Chapecó",
     "login": "afnunes"
   },
   {
-    "": "",
     "name": "RICARDO ALBERTO DUMMEL",
     "posto": "CAPITÃO",
     "funcao": "Cmt 1º PBM",
@@ -1969,7 +1750,6 @@
     "login": "dummel"
   },
   {
-    "": "",
     "name": "LUIZA FREGAPANI SILVA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 4º PBM",
@@ -1980,7 +1760,6 @@
     "login": "luiza"
   },
   {
-    "": "",
     "name": "LEONARDO FELIPE ARDIGO DA SILVA",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2ª CBM",
@@ -1991,7 +1770,6 @@
     "login": "ardigo"
   },
   {
-    "": "",
     "name": "RAFAEL MANOEL JOSE",
     "posto": "CAPITÃO",
     "funcao": "Cmt 2º PBM",
@@ -2002,29 +1780,26 @@
     "login": "rmanoel"
   },
   {
-    "": "",
     "name": "LUANN LEON CHRUN",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
     "id": "0934065-3-01",
-    "parentId": "0923855-7-02",
+    "parentId": "0930100-3-02",
     "ctisp": "",
-    "municipio": "Bombinhas",
+    "municipio": "Porto Belo",
     "login": "chrun"
   },
   {
-    "": "",
     "name": "LUIZ HENRIQUE LANA",
     "posto": "TENENTE",
-    "funcao": "SCmt da SSCI",
+    "funcao": "Cmt 1º PBM",
     "id": "0934056-4-01",
-    "parentId": "0931908-5-01",
+    "parentId": "0392385-1-01",
     "ctisp": "",
-    "municipio": "Blumenau",
+    "municipio": "Brusque",
     "login": "lhenrique"
   },
   {
-    "": "",
     "name": "FRANCO BRESSAN DA SILVA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2035,18 +1810,16 @@
     "login": "francobs"
   },
   {
-    "": "",
     "name": "RAFAEL MELO MARQUES",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
     "id": "0934057-2-01",
-    "parentId": "0929344-2-01",
+    "parentId": "0931903-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "rmelo"
   },
   {
-    "": "",
     "name": "BRUNO DE CESAR TOLEDO CAMILO",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2057,7 +1830,6 @@
     "login": "bcesar"
   },
   {
-    "": "",
     "name": "FERNANDA CORREA RECK",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2068,29 +1840,26 @@
     "login": "fernandar"
   },
   {
-    "": "",
     "name": "BRUNA PAULA CALEGARI LINO",
     "posto": "TENENTE",
-    "funcao": "Aux 10º BBM",
+    "funcao": "Auxiliar do chefe de gabinete",
     "id": "0934069-6-01",
-    "parentId": "0927275-5-01",
+    "parentId": "0925316-5-01",
     "ctisp": "",
-    "municipio": "São José",
+    "municipio": "Florianópolis",
     "login": "brunal"
   },
   {
-    "": "",
     "name": "GUILHERME DALL IGNA DE OLIVEIRA",
     "posto": "TENENTE",
-    "funcao": "Cmt 1º PBM",
+    "funcao": "Ajudante de Ordens",
     "id": "0391170-5-01",
-    "parentId": "0374613-5-01",
+    "parentId": "0926742-5-01",
     "ctisp": "",
-    "municipio": "Lages",
+    "municipio": "Florianópolis",
     "login": "dalligna"
   },
   {
-    "": "",
     "name": "BARBARA FORTKAMP",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
@@ -2101,40 +1870,36 @@
     "login": "barbarafs"
   },
   {
-    "": "",
     "name": "LEANDRO GRANDE CENEDESI",
     "posto": "TENENTE",
     "funcao": "Cmt PCSv",
     "id": "0934062-9-01",
-    "parentId": "0926741-7-01",
+    "parentId": "0929344-2-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "grande"
   },
   {
-    "": "",
     "name": "GUILHERME MARTINS DA SILVA",
     "posto": "TENENTE",
     "funcao": "Chefe B4",
     "id": "0934052-1-01",
-    "parentId": "0927273-9-01",
+    "parentId": "0924315-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "guilhermems"
   },
   {
-    "": "",
     "name": "GUSTAVO JOHN ROESNER",
     "posto": "1º TENENTE",
     "funcao": "Assessor jurídico",
     "id": "0934072-6-01",
-    "parentId": "0924669-0-01",
+    "parentId": "0924000-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "roesner"
   },
   {
-    "": "",
     "name": "BRUNO ZIMMERMANN VENTURA",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2145,7 +1910,6 @@
     "login": "bventura"
   },
   {
-    "": "",
     "name": "BRUNO ZIMMERMANN VENTURA",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
@@ -2156,7 +1920,6 @@
     "login": "bventura"
   },
   {
-    "": "",
     "name": "LEVI GARCIA RIBEIRO",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
@@ -2167,7 +1930,6 @@
     "login": "levigr"
   },
   {
-    "": "",
     "name": "WAGNER MEDELLA DE SANTANA",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2178,7 +1940,6 @@
     "login": "wsantana"
   },
   {
-    "": "",
     "name": "JOAO RICARDO PROCHMANN",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2189,7 +1950,6 @@
     "login": "prochmann"
   },
   {
-    "": "",
     "name": "FRANCISCO CLEMENTE SCHARF FILHO",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
@@ -2200,7 +1960,6 @@
     "login": "scharf"
   },
   {
-    "": "",
     "name": "ANDRE ALEXEI GERMANOVIX",
     "posto": "TENENTE",
     "funcao": "Cmt 1ª CBM",
@@ -2211,7 +1970,6 @@
     "login": "germanovix"
   },
   {
-    "": "",
     "name": "ANDRE ALEXEI GERMANOVIX",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2222,29 +1980,26 @@
     "login": "germanovix"
   },
   {
-    "": "",
     "name": "NICOLAS PAOLO ZANELLA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
     "id": "0934054-8-01",
-    "parentId": "0929344-2-01",
+    "parentId": "0931903-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "nicolaspz"
   },
   {
-    "": "",
     "name": "MAYKOW CHRISTIAN ALMEIDA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
     "id": "0934058-0-01",
-    "parentId": "0923855-7-02",
+    "parentId": "0930100-3-02",
     "ctisp": "",
     "municipio": "Itapema",
     "login": "maykow"
   },
   {
-    "": "",
     "name": "EDUARDO HENRIQUE RIBEIRO",
     "posto": "1º TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2255,7 +2010,6 @@
     "login": "eduardoh"
   },
   {
-    "": "",
     "name": "DIEGO HEUSI RAMPINELLI",
     "posto": "1º TENENTE",
     "funcao": "Chefe da Seção de integração tecnológica (SIT)",
@@ -2266,7 +2020,6 @@
     "login": "rampinelli"
   },
   {
-    "": "",
     "name": "DANIEL BAZANINI MASSAROTTE",
     "posto": "TENENTE",
     "funcao": "Cmt 2ª CBM",
@@ -2277,7 +2030,6 @@
     "login": "massarotte"
   },
   {
-    "": "",
     "name": "DIEGO DE AMORIM SILVA",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2288,7 +2040,6 @@
     "login": "damorim"
   },
   {
-    "": "",
     "name": "TIAGO LUCIAN DE OLIVEIRA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2299,7 +2050,6 @@
     "login": "tiagol"
   },
   {
-    "": "",
     "name": "MARCO AURELIO STIMAMIGLIO TIMMERMANN",
     "posto": "TENENTE",
     "funcao": "Cmt PCSv",
@@ -2310,7 +2060,6 @@
     "login": "timmermann"
   },
   {
-    "": "",
     "name": "JOAO EDUARDO SCHWABE CARDOZO",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2321,7 +2070,6 @@
     "login": "schwabe"
   },
   {
-    "": "",
     "name": "RICHARD LOCKS STUPP",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2332,7 +2080,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "ROBSON FERMIANO BARBOSA SILVA",
     "posto": "TENENTE",
     "funcao": "Cmt 3ª CBM",
@@ -2343,7 +2090,6 @@
     "login": "robsonf"
   },
   {
-    "": "",
     "name": "MARCEL PITTOL TREVISAN",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2354,7 +2100,16 @@
     "login": "pittol"
   },
   {
-    "": "",
+    "name": "DANIEL LOPES GONCALVES",
+    "posto": "TENENTE",
+    "funcao": "Cmt 2º PBM",
+    "id": "0988783-0-01",
+    "parentId": "0933475-0-01",
+    "ctisp": "",
+    "municipio": "São João Batista",
+    "login": ""
+  },
+  {
     "name": "JACKSON LUIS KREUTZ",
     "posto": "TENENTE",
     "funcao": "Cmt 4º PBM",
@@ -2365,29 +2120,26 @@
     "login": "kreutz"
   },
   {
-    "": "",
     "name": "MATEUS HENRIQUE SCHUHMACHER VALERIO",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
     "id": "0988757-1-01",
-    "parentId": "0929600-0-02",
+    "parentId": "0929634-4-01",
     "ctisp": "",
     "municipio": "Palhoça",
     "login": "mateushsv"
   },
   {
-    "": "",
     "name": "JEAN ABILIO SILVA",
-    "posto": "TENENTE-CORONEL",
+    "posto": "1º TENENTE",
     "funcao": "PMSC",
     "id": "0988877-2-01",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "abilio"
   },
   {
-    "": "",
     "name": "DOUGLAS AMARAL DA CUNHA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2398,7 +2150,6 @@
     "login": "douglasac"
   },
   {
-    "": "",
     "name": "DARLAN MARGOTTI MODOLON",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2409,29 +2160,16 @@
     "login": "modolon"
   },
   {
-    "": "",
-    "name": "JULIANO ANTONIO VIEIRA",
-    "posto": "TENENTE",
-    "funcao": "Cmt 2º PBM",
-    "id": "0928593-8-02",
-    "parentId": "0929606-9-02",
-    "ctisp": "",
-    "municipio": "Rio do Sul",
-    "login": "julianoav"
-  },
-  {
-    "": "",
     "name": "BRUNA DESCHAMPS GELSLEICHTER",
     "posto": "TENENTE",
-    "funcao": "Aux 2º PBM",
+    "funcao": "Cmt 1º PBM",
     "id": "0988786-5-01",
-    "parentId": "0927669-6-02",
+    "parentId": "0927671-8-02",
     "ctisp": "",
-    "municipio": "Balneário Piçarras",
+    "municipio": "Tubarão",
     "login": "deschamps"
   },
   {
-    "": "",
     "name": "YUJI EZAKI",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2442,7 +2180,6 @@
     "login": "ezaki"
   },
   {
-    "": "",
     "name": "YUJI EZAKI",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
@@ -2453,7 +2190,6 @@
     "login": "ezaki"
   },
   {
-    "": "",
     "name": "RAMMON SAMUEL NUNES BORGES",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2464,7 +2200,6 @@
     "login": "rammon"
   },
   {
-    "": "",
     "name": "AGUIAR JUNIOR CARLESSO MENEGHETTI",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2475,7 +2210,6 @@
     "login": "carlesso"
   },
   {
-    "": "",
     "name": "UELDER ALVES DA COSTA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2486,7 +2220,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "GUILHERME FURTADO DE FARIAS",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2497,7 +2230,6 @@
     "login": "guilhermef"
   },
   {
-    "": "",
     "name": "AMERICO BLASI FRISON",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2508,7 +2240,6 @@
     "login": "frison"
   },
   {
-    "": "",
     "name": "JONAS PIRES DA SILVEIRA",
     "posto": "TENENTE",
     "funcao": "Cmt 4º PBM",
@@ -2519,7 +2250,6 @@
     "login": "jonasp"
   },
   {
-    "": "",
     "name": "JULIANA SANTOS DE SOUZA",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2530,18 +2260,16 @@
     "login": "julianasantos"
   },
   {
-    "": "",
     "name": "RUNAN AGUIRRE SUARES",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
     "id": "0980955-4-02",
-    "parentId": "0933674-5-01",
+    "parentId": "VAGO 81",
     "ctisp": "",
     "municipio": "Fraiburgo",
     "login": "aguirre"
   },
   {
-    "": "",
     "name": "MIGUEL MORAES GOMES",
     "posto": "TENENTE",
     "funcao": "Cmt 2º PBM",
@@ -2552,7 +2280,6 @@
     "login": "miguel"
   },
   {
-    "": "",
     "name": "GREISON ROCHA BITENCOURT",
     "posto": "TENENTE",
     "funcao": "Cmt PCSv",
@@ -2563,7 +2290,6 @@
     "login": "greison"
   },
   {
-    "": "",
     "name": "EROS ALFREDO JAHN FILHO",
     "posto": "TENENTE",
     "funcao": "Cmt 1º PBM",
@@ -2574,51 +2300,36 @@
     "login": "eros"
   },
   {
-    "": "",
     "name": "LEONARDO CIRIMBELLI DA SILVA",
     "posto": "TENENTE",
-    "funcao": "Cmt 1º PBM",
+    "funcao": "Cmt 3º PBM",
     "id": "0927497-9-02",
-    "parentId": "0933674-5-01",
+    "parentId": "0928655-1-01",
     "ctisp": "",
-    "municipio": "Videira",
+    "municipio": "Canoinhas",
     "login": "cirimbelli"
   },
   {
-    "": "",
     "name": "DANIEL WEGNER SILVA",
     "posto": "TENENTE",
     "funcao": "Cmt 3º PBM",
     "id": "0934626-0-02",
-    "parentId": "0929606-9-02",
+    "parentId": "VAGO 84",
     "ctisp": "",
     "municipio": "Ituporanga",
     "login": "wegner"
   },
   {
-    "": "",
     "name": "THIAGO GARCIA PIRES",
     "posto": "TENENTE",
-    "funcao": "Gestor Perícia 1ª CBM",
+    "funcao": "Cmt 3º PBM",
     "id": "0658522-1-02",
-    "parentId": "0924315-1-01",
+    "parentId": "0930100-3-02",
     "ctisp": "",
-    "municipio": "Balneário Camboriú",
+    "municipio": "Bombinhas",
     "login": "thiagogp"
   },
   {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Cmt 1º PCSv",
-    "id": "VAGO 1",
-    "parentId": "0927273-9-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2629,18 +2340,16 @@
     "login": ""
   },
   {
-    "": "",
     "name": "GIOVANNI FERNANDO KEMPER",
     "posto": "CORONEL",
     "funcao": "Piloto",
     "id": "0919729-0-30",
-    "parentId": "0929344-2-01",
+    "parentId": "0931903-4-01",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": "kemper"
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PCSv",
@@ -2651,7 +2360,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PCSv",
@@ -2662,7 +2370,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 3º PCSv",
@@ -2673,7 +2380,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2684,18 +2390,36 @@
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "CAPITÃO",
+    "funcao": "Cmt 2ª CBM",
+    "id": "VAGO 81",
+    "parentId": "0927297-6-01",
+    "ctisp": "",
+    "municipio": "Videira",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Cmt 1º PBM",
+    "id": "VAGO 811",
+    "parentId": "VAGO 81",
+    "ctisp": "",
+    "municipio": "Videira",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
     "id": "VAGO 9",
-    "parentId": "0926742-5-01",
+    "parentId": "0365077-4-01",
     "ctisp": "",
     "municipio": "Blumenau",
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2706,7 +2430,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2717,7 +2440,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2728,18 +2450,6 @@
     "login": ""
   },
   {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Cmt 1º PBM",
-    "id": "VAGO 13",
-    "parentId": "0392385-1-01",
-    "ctisp": "",
-    "municipio": "Brusque",
-    "login": ""
-  },
-  {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2750,7 +2460,16 @@
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "SCmt da SSCI",
+    "id": "VAGO 151",
+    "parentId": "0931908-5-01",
+    "ctisp": "",
+    "municipio": "Blumenau",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2761,7 +2480,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 3º PBM",
@@ -2772,7 +2490,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
@@ -2783,7 +2500,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2794,7 +2510,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2805,7 +2520,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2816,7 +2530,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2827,7 +2540,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 3º PBM",
@@ -2838,18 +2550,26 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
     "id": "VAGO 26",
-    "parentId": "0365077-4-01",
+    "parentId": "0927277-1-01",
     "ctisp": "",
     "municipio": "Lages",
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "TENENTE",
+    "funcao": "Cmt 1º PBM",
+    "id": "VAGO 261",
+    "parentId": "0374613-5-01",
+    "ctisp": "",
+    "municipio": "Lages",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2860,7 +2580,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 3º PBM",
@@ -2871,7 +2590,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2882,7 +2600,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2893,18 +2610,16 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
     "id": "VAGO 39",
-    "parentId": "0926745-0-01",
+    "parentId": "0926741-7-01",
     "ctisp": "",
     "municipio": "Itajaí",
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2915,7 +2630,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2926,7 +2640,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2937,7 +2650,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 2º PBM",
@@ -2948,7 +2660,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 3º PBM",
@@ -2959,18 +2670,16 @@
     "login": ""
   },
   {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Cmt 1º PBM",
-    "id": "VAGO 45",
-    "parentId": "0927671-8-02",
+    "name": "FABIO COLLODEL",
+    "posto": "TENENTE-CORONEL",
+    "funcao": "Cmt 8º BBM",
+    "id": "0928361-7-01",
+    "parentId": "0924663-0-01",
     "ctisp": "",
     "municipio": "Tubarão",
-    "login": ""
+    "login": "fabio"
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2981,7 +2690,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -2992,7 +2700,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
@@ -3003,18 +2710,6 @@
     "login": ""
   },
   {
-    "": "",
-    "name": "VAGO",
-    "posto": "TENENTE",
-    "funcao": "Cmt 3º PBM",
-    "id": "VAGO 51",
-    "parentId": "0928655-1-01",
-    "ctisp": "",
-    "municipio": "Canoinhas",
-    "login": ""
-  },
-  {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3025,7 +2720,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3036,7 +2730,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3047,7 +2740,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
@@ -3058,7 +2750,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3069,7 +2760,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3080,7 +2770,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
@@ -3091,7 +2780,16 @@
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Cmt 1º PBM",
+    "id": "VAGO 661",
+    "parentId": "0926452-3-02",
+    "ctisp": "",
+    "municipio": "São Miguel do Oeste",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3102,7 +2800,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3113,18 +2810,36 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "SCmt 13º BBM",
     "id": "VAGO 73",
-    "parentId": "0924315-1-01",
+    "parentId": "0926595-3-01",
     "ctisp": "",
     "municipio": "Balneário Camboriú",
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Gestor Perícia 1ª CBM",
+    "id": "VAGO 731",
+    "parentId": "0926595-3-01",
+    "ctisp": "",
+    "municipio": "Balneário Camboriú",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "CAPITÃO",
+    "funcao": "Cmt 1º PBM",
+    "id": "VAGO 732",
+    "parentId": "0920662-0-02",
+    "ctisp": "",
+    "municipio": "Balneário Camboriú",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3135,9 +2850,8 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
-    "posto": "",
+    "posto": "VAGO",
     "funcao": "Cmt PCSv",
     "id": "VAGO 77",
     "parentId": "0928360-9-01",
@@ -3146,7 +2860,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3157,7 +2870,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3168,7 +2880,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt PCSv",
@@ -3179,18 +2890,26 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
-    "funcao": "Cmt 1º PBM",
+    "funcao": "Cmt 1ª CBM",
     "id": "VAGO 84",
-    "parentId": "0929606-9-02",
+    "parentId": "0926268-7-01",
     "ctisp": "",
     "municipio": "Rio do Sul",
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "VAGO",
+    "funcao": "Cmt 2º PBM",
+    "id": "VAGO 841",
+    "parentId": "VAGO 84",
+    "ctisp": "",
+    "municipio": "Rio do Sul",
+    "login": ""
+  },
+  {
     "name": "VAGO",
     "posto": "",
     "funcao": "Cmt 1º PBM",
@@ -3201,62 +2920,76 @@
     "login": ""
   },
   {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Chefe da Assessoria Especial de Assuntos Institucionais",
-    "id": "VAGO 91",
-    "parentId": "0925316-5-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Chefe da Assessoria Especial de Inovação",
-    "id": "VAGO 92",
-    "parentId": "0925316-5-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Chefe da Divisão de Eficiência Processual",
-    "id": "VAGO 93",
-    "parentId": "0922323-1-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Chefe da Divisão de Supervisão Disciplinar",
-    "id": "VAGO 94",
-    "parentId": "0922323-1-01",
-    "ctisp": "",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
-    "name": "VAGO",
-    "posto": "",
-    "funcao": "Ajudante de Ordens do Chefe do Estado-Maior Geral",
-    "id": "VAGO 95",
+    "name": "JEFFERSON DE SOUZA",
+    "posto": "CORONEL",
+    "funcao": "SCmtG",
+    "id": "925316-5-01",
     "parentId": "0924000-4-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Chefe da Assessoria Especial de Assuntos Institucionais",
+    "id": "VAGO 91",
+    "parentId": "0926742-5-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Chefe da Assessoria Especial de Inovação",
+    "id": "VAGO 92",
+    "parentId": "0926742-5-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Chefe da Divisão de Eficiência Processual",
+    "id": "VAGO 93",
+    "parentId": "0925296-7-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Chefe da Divisão de Supervisão Disciplinar",
+    "id": "VAGO 94",
+    "parentId": "0925296-7-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Ajudante de Ordens do Chefe do Estado-Maior Geral",
+    "id": "VAGO 95",
+    "parentId": "0924688-6-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
+    "name": "VAGO",
+    "posto": "",
+    "funcao": "Adjunta da BM-7",
+    "id": "VAGO 951",
+    "parentId": "0928359-5-01",
+    "ctisp": "",
+    "municipio": "Florianópolis",
+    "login": ""
+  },
+  {
     "name": "MARCOS ANTONIO DE OLIVEIRA",
     "posto": "CORONEL",
     "funcao": "Presidente da Comissão de Monitoramento e Avaliação para os Termos de Fomento dos BV",
@@ -3267,7 +3000,6 @@
     "login": "marcosantonio"
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Infraestrutura (CInfra)",
@@ -3278,7 +3010,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Administração, Suporte e Manutenção (CASM)",
@@ -3289,7 +3020,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "ALEXANDRE VIEIRA",
     "posto": "CORONEL",
     "funcao": "Coordenador CTISP",
@@ -3300,7 +3030,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Inclusão e Seleção de Pessoal (CIS)",
@@ -3311,7 +3040,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Saúde Ocupacional (CSO)",
@@ -3322,7 +3050,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Avaliação Física (CAF)",
@@ -3333,7 +3060,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Publicações Técnicas (CPT)",
@@ -3344,7 +3070,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Pesquisa e Projetos em Educação (CPEP)",
@@ -3355,7 +3080,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Regulação de Ensino (CRE).",
@@ -3366,7 +3090,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Controle e Auditoria (CCA)",
@@ -3377,7 +3100,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro de Avaliação e Estatísticas (CAE)",
@@ -3388,7 +3110,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do CEMEaD",
@@ -3399,7 +3120,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do CECEaD",
@@ -3410,7 +3130,6 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do  CLAM",
@@ -3421,29 +3140,26 @@
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do CEFC",
     "id": "VAGO 116",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "",
     "funcao": "Chefe do Centro Escola de Governo (CEGOV)",
     "id": "VAGO 118",
-    "parentId": "0925296-7-01",
+    "parentId": "0922323-1-01",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "VAGO",
     "posto": "TENENTE",
     "funcao": "Cmt PCSv",
@@ -3454,78 +3170,51 @@
     "login": ""
   },
   {
-    "": "",
     "name": "JOSE MAURO DA COSTA",
     "posto": "CORONEL",
     "funcao": "Associação",
     "id": "0908692-7-30",
-    "parentId": "0924685-1-01",
+    "parentId": "925316-5-01",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
-    "name": "CEDIDO",
-    "posto": "",
-    "funcao": "CEDIDO",
-    "id": "CEDIDO",
-    "parentId": "0924669-0-01",
-    "ctisp": "",
-    "municipio": "",
-    "login": ""
-  },
-  {
-    "": "",
-    "name": "EDSON LUIS BILUK",
-    "posto": "CORONEL",
-    "funcao": "CTISP",
-    "id": "0913504-9-30",
-    "parentId": "CEDIDO",
-    "ctisp": "SIM",
-    "municipio": "Florianópolis",
-    "login": ""
-  },
-  {
-    "": "",
     "name": "PAULO CESAR KNIHS",
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0913530-8-30",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "DANIEL FERNANDES",
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0918714-6-30",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "CHARLES ALEXANDRE VIEIRA",
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0919713-3-30",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
   },
   {
-    "": "",
     "name": "JAILSON OSNI GODINHO",
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0923016-5-30",
-    "parentId": "CEDIDO",
+    "parentId": "",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
