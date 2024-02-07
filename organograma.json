@@ -4,7 +4,7 @@
     "posto": "CORONEL",
     "funcao": "Secretário de Estado da Proteção e Defesa Civil",
     "id": "0924669-0-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "",
     "municipio": "Florianópolis",
     "login": "fabiano"
@@ -14,7 +14,7 @@
     "posto": "CORONEL",
     "funcao": "DEFESA CIVIL",
     "id": "0924685-1-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "laureano"
@@ -44,7 +44,7 @@
     "posto": "CORONEL",
     "funcao": "Comando Geral",
     "id": "0920234-0-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "ariovaldo"
@@ -74,7 +74,7 @@
     "posto": "CORONEL",
     "funcao": "TJSC",
     "id": "0924665-7-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "dvidal"
@@ -124,7 +124,7 @@
     "posto": "TENENTE-CORONEL",
     "funcao": "MPSC",
     "id": "0925320-3-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "ccardoso"
@@ -234,7 +234,7 @@
     "posto": "TENENTE-CORONEL",
     "funcao": "DEFESA CIVIL",
     "id": "0927273-9-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "danielgm"
@@ -314,7 +314,7 @@
     "posto": "TENENTE-CORONEL",
     "funcao": "TJSC",
     "id": "0927274-7-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "lemos"
@@ -374,7 +374,7 @@
     "posto": "TENENTE-CORONEL",
     "funcao": "SEDEC",
     "id": "0927271-2-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Brasília",
     "login": "sommer"
@@ -1254,7 +1254,7 @@
     "posto": "CAPITÃO",
     "funcao": "DEFESA CIVIL",
     "id": "0931895-0-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "bgolin"
@@ -1344,7 +1344,7 @@
     "posto": "CAPITÃO",
     "funcao": "CFNP",
     "id": "0931910-7-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "mrodrigues"
@@ -2134,7 +2134,7 @@
     "posto": "1º TENENTE",
     "funcao": "PMSC",
     "id": "0988877-2-01",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "NÃO",
     "municipio": "Florianópolis",
     "login": "abilio"
@@ -3180,11 +3180,21 @@
     "login": ""
   },
   {
+    "name": "CEDIDO",
+    "posto": "",
+    "funcao": "CEDIDO",
+    "id": "CEDIDO",
+    "parentId": "0924000-4-01",
+    "ctisp": "",
+    "municipio": "",
+    "login": ""
+  },
+  {
     "name": "PAULO CESAR KNIHS",
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0913530-8-30",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
@@ -3194,7 +3204,7 @@
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0918714-6-30",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
@@ -3204,7 +3214,7 @@
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0919713-3-30",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
@@ -3214,7 +3224,7 @@
     "posto": "CORONEL",
     "funcao": "CTISP",
     "id": "0923016-5-30",
-    "parentId": "",
+    "parentId": "CEDIDO",
     "ctisp": "SIM",
     "municipio": "Florianópolis",
     "login": ""
